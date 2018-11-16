@@ -1,9 +1,9 @@
 # Site settings
-title: Termux
+title: Linuxdroid
 description: > # this means to ignore newlines until "baseurl:"
-  Help page for Termux - terminal emulator and Linux environment for Android.
+  Help page for Linuxdroid - terminal emulator and Linux environment for Android.
 baseurl: ""
-url: "https://termux.com"
+url: "https://linuxdroid.app"
 
 # Build settings
 markdown: kramdown

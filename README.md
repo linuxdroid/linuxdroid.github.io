@@ -1,8 +1,8 @@
-Termux.com
+Linuxdroid.com
 ==========
-[![Join the chat at https://gitter.im/termux/termux](https://badges.gitter.im/termux/termux.svg)](https://gitter.im/termux/termux)
+[![Join the chat at https://gitter.im/linuxdroid/linuxdroid](https://badges.gitter.im/linuxdroid/linuxdroid.svg)](https://gitter.im/linuxdroid/linuxdroid)
 
-This is the source repository for [termux.com](https://termux.com).
+This is the source repository for [linuxdroid.app](https://linuxdroid.app).
 
 Running locally
 ---------------

@@ -3,11 +3,11 @@ layout: page
 title: Donate
 ---
 
-Want to support and encourage Termux development with a donation?
+Want to support and encourage Linuxdroid development with a donation?
 
 ### Donate using Patreon
 
-- <https://patreon.com/termux>
+- <https://patreon.com/linuxdroid>
 
 ### Donate using PayPal
 
